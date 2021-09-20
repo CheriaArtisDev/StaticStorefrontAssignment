@@ -51,6 +51,24 @@ header {
     margin: 4px;
 }
 
+form {
+    margin-top: 50px;
+    margin-left: 450px;
+    width: fit-content;
+    padding: 4px;
+    border: 2px solid rosybrown;
+    background-color: rgb(92, 107, 156);
+    align-content: center;
+}
+
+#submit {
+    width: 310px;
+}
+
+.p1 {
+    margin-left: 85px;
+}
+
 img {
     display: inline-flex;
     align-content: space-between;
@@ -142,5 +160,5 @@ footer {
 
 #button4 {
     margin-top: -10px;
-    margin-left: 40px; 
+    margin-left: 440px; 
 }
